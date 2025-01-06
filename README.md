@@ -34,37 +34,19 @@ To get started with MIMO4BERT-AI4Wireless, follow these steps:
    Use the provided scripts to generate and preprocess the necessary datasets. Refer to the `data/README.md` for detailed instructions.
 
 
-## Contributing
+## Publication
+```
+@misc{catak2025bert4mimofoundationmodelusing,
+      title={BERT4MIMO: A Foundation Model using BERT Architecture for Massive MIMO Channel State Information Prediction}, 
+      author={Ferhat Ozgur Catak and Murat Kuzlu and Umit Cali},
+      year={2025},
+      eprint={2501.01802},
+      archivePrefix={arXiv},
+      primaryClass={cs.IT},
+      url={https://arxiv.org/abs/2501.01802}, 
+}
+```
 
-Contributions are welcome! Please follow these steps:
-
-1. **Fork the Repository**: Click on the 'Fork' button at the top right corner of this page to create a copy of this repository under your GitHub account.
-
-2. **Clone Your Fork**: Clone your forked repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/MIMO4BERT-AI4Wireless.git
-   ```
-
-3. **Create a New Branch**: Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-
-4. **Make Changes**: Implement your changes or additions.
-
-5. **Commit Changes**: Commit your changes with a descriptive message:
-   ```bash
-   git commit -m "Description of the feature or fix"
-   ```
-
-6. **Push to GitHub**: Push your changes to your forked repository:
-   ```bash
-   git push origin feature-name
-   ```
-
-7. **Create a Pull Request**: Navigate to the original repository and click on 'Pull Requests', then 'New Pull Request'. Select your branch from your forked repository and submit the pull request.
-
-Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
 ## License
 
