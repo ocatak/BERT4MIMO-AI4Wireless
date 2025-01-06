@@ -52,10 +52,3 @@ To get started with MIMO4BERT-AI4Wireless, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-
-We extend our gratitude to the contributors and the open-source community for their invaluable support and resources.
-
-- Update any placeholders (e.g., `your-username`) with the appropriate information.
-
-This `README.md` provides a comprehensive guide to understanding, setting up, and contributing to the **MIMO4BERT-AI4Wireless** project. 
